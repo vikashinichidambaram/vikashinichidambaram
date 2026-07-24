@@ -1,6 +1,13 @@
-# 💫 About Me:
-👋 Hello World! I'm Vikashini<br><br>🎨 Passionate Frontend Developer |💫 C Programmer| SQL & MYSQL |⚡Creative Problem Solver |🚀 Lifelong Learner<br><br>🖌️ I Love turning ideas into beautiful interfaces <br><br>⚡ Specializing in HTML, CSS, JavaScript and C Programming<br><br>🧠 Leveling up my skills in JavaScript, React and Animations<br><br>💭 Always ready to talk about frontend trends and design systems<br><br>🌱Building Pixel -perfect,  responsive, and delightful user experiences<br><br>📚 Forever a student of design, accessibility, and web performance<br><br>✨ Let's create something awesome together!    <br><br>
+### 👋 Hello, I'm Vikashini
 
+🗃️ SQL & MySQL | 📊 Excel | 📈 Learning Data Analytics
+
+- 💻 Strong foundation in **SQL/MySQL**
+- 📊 Skilled in **Microsoft Excel** — built an interactive Payroll Dashboard with Pivot Tables & charts
+- 📈 Currently leveling up in **Power BI, Python, and Git & GitHub**
+- 🧩 Built projects like an Employee Payroll & Workforce Management System (SQL) and a personal portfolio site
+- 🌱 A fresher, eager to grow as a Software Developer
+- 🤝 Open to entry-level opportunities — let's connect!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com) 
