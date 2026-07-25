@@ -2,12 +2,17 @@
 
 🗃️ SQL & MySQL | 📊 Excel | 📈 Learning Data Analytics
 
-- 💻 Strong foundation in **SQL/MySQL**
-- 📊 Skilled in **Microsoft Excel** — built an interactive Payroll Dashboard with Pivot Tables & charts
-- 📈 Currently leveling up in **Power BI, Python, and Git & GitHub**
-- 🧩 Built projects like an Employee Payroll & Workforce Management System (SQL) and a personal portfolio site
-- 🌱 A fresher, eager to grow as a Software Developer
-- 🤝 Open to entry-level opportunities — let's connect!
+Aspiring Software Developer | SQL & Data Enthusiast
+
+💻 Strong foundation in SQL/MySQL, with hands-on project experience in database design and querying
+📊 Skilled in Microsoft Excel — built an interactive Payroll Dashboard using Pivot Tables & Charts
+📈 Currently upskilling in Power BI, Python, and Git & GitHub
+🧩 Project experience:
+   - Employee Payroll & Workforce Management System (SQL) — designed schema, wrote queries using Joins, Group By, Having, and Subqueries
+   - E-commerce Database (SQL) — modeled and queried a relational database for an e-commerce use case
+   - Personal Portfolio Website (HTML/CSS)
+🌱 A fresher passionate about data-driven problem solving, eager to grow as a Software Developer
+🤝 Open to entry-level opportunities — let's connect!
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com)
