@@ -10,7 +10,7 @@
 - 🤝 Open to entry-level opportunities — let's connect!
 
 ## 🌐 Socials:
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
