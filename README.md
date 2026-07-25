@@ -18,7 +18,8 @@ Aspiring Software Developer | SQL & Data Enthusiast
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Excel](https://img.shields.io/badge/EXCEL-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![PYTHON](https://img.shields.io/badge/PYTHON-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vikashinichidambaram&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vikashinichidambaram&theme=radical&hide_border=false)<br/>
