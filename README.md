@@ -1,19 +1,94 @@
-### 👋 Hello, I'm Vikashini
+# 💻 Hello, I'm Vikashini
 
-🗃️ SQL & MySQL | 📊 Excel | 📈 Learning Data Analytics
 
-Aspiring Software Developer | SQL & Data Enthusiast
 
--💻 Strong foundation in SQL/MySQL, with hands-on project experience in database design and querying
--📊 Skilled in Microsoft Excel — built an interactive Payroll Dashboard using Pivot Tables & Charts
--📈 Currently upskilling in Power BI, Python, and Git & GitHub
--🧩 Project experience:
-   - Employee Payroll & Workforce Management System (SQL) — designed schema, wrote queries using Joins, Group By, Having, and Subqueries
-   - E-commerce Database (SQL) — modeled and queried a relational database for an e-commerce use case
-   - Personal Portfolio Website (HTML/CSS)   
--🌱 A fresher passionate about data-driven problem solving, eager to grow as a Software Developer
--🤝 Open to entry-level opportunities — let's connect!
+### 📊 SQL & MySQL | 📈 Excel | 📉 Data Analytics Enthusiast
 
+
+
+**Aspiring Data Analyst | SQL & Excel Enthusiast**
+
+
+
+---
+
+
+
+### 🚀 About Me & Skills
+
+
+
+* 🗄️ Strong foundation in **SQL/MySQL** with hands-on experience in database design, querying, and data analysis.
+
+* 📊 Proficient in **Microsoft Excel** including Pivot Tables, Pivot Charts, Lookup Functions, Conditional Formatting, and Dashboard Creation.
+
+* 📈 Currently learning **Power BI, Python, Git & GitHub** to expand my data analytics skill set.
+
+* 🎯 Passionate about transforming raw data into meaningful insights and visualizations.
+
+
+
+---
+
+
+
+### 📁 Projects
+
+
+
+#### 📊 Sales Performance Dashboard (Excel)
+
+
+
+* Analyzed sales, profit, quantity, and customer data using Microsoft Excel.
+
+* Built interactive dashboards using Pivot Tables, Pivot Charts, and Slicers.
+
+* Generated insights on top-performing products, categories, and states.
+
+
+
+#### 💼 Employee Payroll & Workforce Management System (SQL)
+
+
+
+* Designed a relational database schema and implemented advanced SQL queries.
+
+* Used Joins, Group By, Having, Aggregate Functions, and Subqueries for reporting and analysis.
+
+
+
+#### 🛒 E-commerce Database Management System (SQL)
+
+
+
+* Developed and managed a relational database for an e-commerce business scenario.
+
+* Created optimized queries to retrieve and analyze customer and product data.
+
+
+
+#### 🌐 Personal Portfolio Website (HTML/CSS)
+
+
+
+* Designed and developed a responsive personal portfolio website to showcase projects and skills.
+
+
+
+---
+
+
+
+### 📫 Career Objective
+
+
+
+Aspiring Data Analyst with strong SQL and Excel skills, eager to apply analytical thinking and problem-solving abilities in real-world projects. Open to internships and entry-level opportunities in Data Analytics, Business Intelligence, and Software Development.
+
+
+### 🌐 Socials:
+[💼 LinkedIn](YOUR_LINKEDIN_URL) | [🐦 Twitter/X](YOUR_TWITTER_URL) | [📧 Email](mailto:your-email@example.com)
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com)
 
