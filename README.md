@@ -88,7 +88,7 @@ Aspiring Data Analyst with strong SQL and Excel skills, eager to apply analytica
 
 
 ### 🌐 Socials:
-[💼 LinkedIn](YOUR_LINKEDIN_URL) | [🐦 Twitter/X](YOUR_TWITTER_URL) | [📧 Email](mailto:your-email@example.com)
+[💼 LinkedIn](https://www.linkedin.com/in/vikashini-k-c-37971b267/)) |[📧 Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivika92@gmail.com)
 
